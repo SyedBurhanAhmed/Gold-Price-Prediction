@@ -1,0 +1,2 @@
+# Gold Price Prediction
+ A machine learning project that predicts gold prices in Pakistan using classical regression algorithms. The project scrapes data from reputable sources—including LBMA gold prices (24-karat), USD to PKR exchange rates, and local petrol prices—and trains multiple models. A user-friendly Streamlit app lets users input key features and obtain predictions, with options to display the result in various units (ounce, troy ounce, tola, gram).
